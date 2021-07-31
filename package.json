@@ -28,7 +28,7 @@
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.21",
     "mongoose": "^5.13.3",
-    "morgan": "~1.9.1",
+    "morgan": "~1.10.0",
     "nanoid": "^3.1.23",
     "openpgp": "^5.0.0-5",
     "regenerator-runtime": "^0.13.7",
