@@ -29,7 +29,7 @@
     "lodash": "^4.17.21",
     "mongoose": "^5.13.3",
     "morgan": "~1.9.1",
-    "nanoid": "^3.1.23",
+    "nanoid": "^3.1.31",
     "openpgp": "^5.0.0-5",
     "regenerator-runtime": "^0.13.7",
     "unique-names-generator": "^4.6.0"
