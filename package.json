@@ -16,7 +16,7 @@
     "prod": "NODE_ENV=production npm run build && node ./dist/bin/www.js"
   },
   "dependencies": {
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "debug": "^4.3.2",
